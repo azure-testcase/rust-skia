@@ -19,7 +19,7 @@ A prerelease crate is available from [crates.io](https://crates.io/crates/skia-s
 
 ```toml
 [dependencies]
-skia-safe = "0"
+skia-safe = "1"
 ```
 
 to your `Cargo.toml` should get you started.
